@@ -1,7 +1,7 @@
 grade = float(input("Enter your grade: "))
 
 if grade >= 80:
-    print("You got a A+.Excellent")
+    print("You got an A+.")
 elif grade >= 75:
     print("You got a A.")
 elif grade >= 70:
