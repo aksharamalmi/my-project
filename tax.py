@@ -3,6 +3,7 @@ annual_income = float(input("Enter your annual income: "))
 
 # Define the tax rates
 tax_rate_low = 0.10  # Low-income tax rate (e.g., 10%)
+tax_rate_mediam=0.15 #Mediam-income tax rate (e.g.,15%)
 tax_rate_high = 0.20  # High-income tax rate (e.g., 20%)
 
 # Define income thresholds for tax rates
