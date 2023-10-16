@@ -15,4 +15,4 @@ elif grade >= 55:
 elif grade >= 45:
     print("You got a D.")
 else:
-    print("You got an F.")
+    print("You got an F. You need to retake the course.")
